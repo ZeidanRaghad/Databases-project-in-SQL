@@ -1,4 +1,4 @@
---I.D: 322514282
+
 --QUEST NO.5
 create table tblClubMember( 
 memberCode int primary key,
